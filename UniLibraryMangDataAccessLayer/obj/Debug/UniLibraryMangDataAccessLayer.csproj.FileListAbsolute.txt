@@ -1,0 +1,6 @@
+D:\FCAI_Project\Database\Project\UniLibraryMangDataAccessLayer\bin\Debug\UniLibraryMangDataAccessLayer.dll
+D:\FCAI_Project\Database\Project\UniLibraryMangDataAccessLayer\bin\Debug\UniLibraryMangDataAccessLayer.pdb
+D:\FCAI_Project\Database\Project\UniLibraryMangDataAccessLayer\obj\Debug\UniLibraryMangDataAccessLayer.csproj.AssemblyReference.cache
+D:\FCAI_Project\Database\Project\UniLibraryMangDataAccessLayer\obj\Debug\UniLibraryMangDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FCAI_Project\Database\Project\UniLibraryMangDataAccessLayer\obj\Debug\UniLibraryMangDataAccessLayer.dll
+D:\FCAI_Project\Database\Project\UniLibraryMangDataAccessLayer\obj\Debug\UniLibraryMangDataAccessLayer.pdb

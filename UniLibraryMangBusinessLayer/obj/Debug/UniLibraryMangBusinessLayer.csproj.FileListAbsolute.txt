@@ -1,0 +1,9 @@
+D:\FCAI_Project\Database\Project\UniLibraryMangBusinessLayer\bin\Debug\UniLibraryMangBusinessLayer.dll
+D:\FCAI_Project\Database\Project\UniLibraryMangBusinessLayer\bin\Debug\UniLibraryMangBusinessLayer.pdb
+D:\FCAI_Project\Database\Project\UniLibraryMangBusinessLayer\bin\Debug\UniLibraryMangDataAccessLayer.dll
+D:\FCAI_Project\Database\Project\UniLibraryMangBusinessLayer\bin\Debug\UniLibraryMangDataAccessLayer.pdb
+D:\FCAI_Project\Database\Project\UniLibraryMangBusinessLayer\obj\Debug\UniLibraryMangBusinessLayer.csproj.AssemblyReference.cache
+D:\FCAI_Project\Database\Project\UniLibraryMangBusinessLayer\obj\Debug\UniLibraryMangBusinessLayer.csproj.CoreCompileInputs.cache
+D:\FCAI_Project\Database\Project\UniLibraryMangBusinessLayer\obj\Debug\UniLibra.F0311D1C.Up2Date
+D:\FCAI_Project\Database\Project\UniLibraryMangBusinessLayer\obj\Debug\UniLibraryMangBusinessLayer.dll
+D:\FCAI_Project\Database\Project\UniLibraryMangBusinessLayer\obj\Debug\UniLibraryMangBusinessLayer.pdb
