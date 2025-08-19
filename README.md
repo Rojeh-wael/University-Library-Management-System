@@ -1,10 +1,10 @@
-# BookHive - University Library Management System 📚
+# University Library Management System 📚
 
 A comprehensive university library management system built with C# and SQL Server, designed to streamline library operations for administrators and students.
 
 ## 🎯 Project Overview
 
-BookHive is a full-stack library management application developed as part of a database systems course. The project demonstrates the complete software development lifecycle from conceptual database design to implementation of a functional application with a user-friendly interface.
+Our System is a full-stack library management application developed as part of a database systems course. The project demonstrates the complete software development lifecycle from conceptual database design to implementation of a functional application with a user-friendly interface.
 
 ## ✨ Features
 
